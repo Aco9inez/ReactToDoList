@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Aco9inez/ReactToDoList.github.io/static/js/main.92db9ccd.js",
-    "index.html": "/Aco9inez/ReactToDoList.github.io/index.html",
-    "main.92db9ccd.js.map": "/Aco9inez/ReactToDoList.github.io/static/js/main.92db9ccd.js.map"
+    "main.js": "/todolist-app/static/js/main.92db9ccd.js",
+    "index.html": "/todolist-app/index.html",
+    "main.92db9ccd.js.map": "/todolist-app/static/js/main.92db9ccd.js.map"
   },
   "entrypoints": [
     "static/js/main.92db9ccd.js"
