@@ -1,11 +1,11 @@
 {
-  
+  "homepage": "https://Aco9inez.github.io/ReactToDoList",
   "name": "todolist-app",
   
   "version": "0.1.0",
   
   "private": true,
-  
+
   "dependencies": {
   
     
